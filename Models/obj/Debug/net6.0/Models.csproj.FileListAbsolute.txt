@@ -1,0 +1,12 @@
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\bin\Debug\net6.0\Models.deps.json
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\bin\Debug\net6.0\Models.dll
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\bin\Debug\net6.0\Models.pdb
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.dll
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\refint\Models.dll
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\Models.pdb
+C:\Users\3bood\source\repos\Excel Sheet Validation\Models\obj\Debug\net6.0\ref\Models.dll
